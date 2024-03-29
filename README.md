@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<iframe src="https://giphy.com/embed/107QsHzZW54hJC" width="444" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/zelda-wiki-guide-107QsHzZW54hJC">via GIPHY</a></p>
+![107QsHzZW54hJC](https://github.com/morretrf/morretrf/assets/17662429/4c31912c-d03e-44e5-b870-f311b2e0148c)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
