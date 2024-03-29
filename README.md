@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![107QsHzZW54hJC](https://github.com/morretrf/morretrf/assets/17662429/4c31912c-d03e-44e5-b870-f311b2e0148c)
+![YTtqB2j5EN7IA](https://github.com/morretrf/morretrf/assets/17662429/988ee4c1-bd7c-4c6b-964c-e7bb6c9d67e9)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
